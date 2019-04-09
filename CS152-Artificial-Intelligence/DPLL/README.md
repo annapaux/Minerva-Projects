@@ -1,4 +1,4 @@
-### DPLL Algorithm\
+### DPLL Algorithm
 Implementation of the Davis-Putnam-Logemann-Loveland algorithm, a complete search algorithm to decide the satisfiability of a knowledge base, including returning a working model. 
 
 `Literal()` Represents a logicial literal, with name and sign. Example: Literal("A")
