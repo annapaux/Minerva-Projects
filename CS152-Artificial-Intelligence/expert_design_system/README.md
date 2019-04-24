@@ -1,6 +1,8 @@
 # Expert Design System
 
-Simply run the jupyter notebook for best user experience.
+1) Make sure you have the pyswip package and jupyter notebook in the same folder. 
+2) Run the code with python 2. (Ideally in a Cocalc notebook with sagemath python2 kernel)
+3) Run all cells in the notebook.
 
 The following expert system lets users specify food preferences, such as cuisine, price and proximity, and gives a recommendation of restaurants that fulfill the preferences. The knowledge base
 contains restaurants and their attributes, as well as the rules that determine for example that a
