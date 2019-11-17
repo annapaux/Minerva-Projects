@@ -20,4 +20,4 @@ See projects for the following classes (in chronological order of taking them):
 - CS162 - Software Development
 
 ### Semester 7 (2019)
-- IL182 - Causal Inference Tutorial
+- IL181 - Causal Inference Tutorial
